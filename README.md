@@ -11,7 +11,7 @@
 ## 🧾 Overview
 
 This is a **full-stack shopping cart web application** built as part of the **Vibe Commerce internship screening assignment**.  
-The project simulates core **e-commerce flows** — product listing, cart management, and checkout — using **React (frontend)**, **Node.js/Express (backend)**, and **MongoDB/SQLite (database)**.  
+The project simulates core **e-commerce flows** — product listing, cart management, and checkout — using **React (frontend)**, **Node.js/Express (backend)**.  
 
 ---
 
